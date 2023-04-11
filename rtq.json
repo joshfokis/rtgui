@@ -1,0 +1,2435 @@
+[{
+    "Cc": [],
+    "_hyperlinks": [
+        {
+            "ref": "self",
+            "id": "1",
+            "type": "queue",
+            "_url": "https://requesttracker.mysite.com:443/REST/2.0/queue/1"
+        },
+        {
+            "ref": "history",
+            "_url": "https://requesttracker.mysite.com:443/REST/2.0/queue/1/history"
+        },
+        {
+            "ref": "create",
+            "type": "ticket",
+            "_url": "https://requesttracker.mysite.com:443/REST/2.0/ticket?Queue=1"
+        }
+    ],
+    "SLADisabled": "1",
+    "Lifecycle": "default",
+    "AdminCc": [],
+    "Creator": {
+        "id": "RT_System",
+        "type": "user",
+        "_url": "https://requesttracker.mysite.com:443/REST/2.0/user/RT_System"
+    },
+    "LastUpdatedBy": {
+        "id": "RT_System",
+        "type": "user",
+        "_url": "https://requesttracker.mysite.com:443/REST/2.0/user/RT_System"
+    },
+    "Disabled": "0",
+    "SortOrder": "0",
+    "Created": "2016-12-07T22:31:28Z",
+    "id": "1",
+    "CustomFields": {},
+    "LastUpdated": "2016-12-07T22:31:28Z",
+    "Name": "General",
+    "Description": "The default queue"
+},{
+    "Cc": [],
+    "_hyperlinks": [
+        {
+            "ref": "self",
+            "id": "1",
+            "type": "queue",
+            "_url": "https://requesttracker.mysite.com:443/REST/2.0/queue/1"
+        },
+        {
+            "ref": "history",
+            "_url": "https://requesttracker.mysite.com:443/REST/2.0/queue/1/history"
+        },
+        {
+            "ref": "create",
+            "type": "ticket",
+            "_url": "https://requesttracker.mysite.com:443/REST/2.0/ticket?Queue=1"
+        }
+    ],
+    "SLADisabled": "1",
+    "Lifecycle": "default",
+    "AdminCc": [],
+    "Creator": {
+        "id": "RT_System",
+        "type": "user",
+        "_url": "https://requesttracker.mysite.com:443/REST/2.0/user/RT_System"
+    },
+    "LastUpdatedBy": {
+        "id": "RT_System",
+        "type": "user",
+        "_url": "https://requesttracker.mysite.com:443/REST/2.0/user/RT_System"
+    },
+    "Disabled": "0",
+    "SortOrder": "0",
+    "Created": "2016-12-07T22:31:28Z",
+    "id": "1",
+    "CustomFields": {},
+    "LastUpdated": "2016-12-07T22:31:28Z",
+    "Name": "General",
+    "Description": "The default queue"
+},{
+    "Cc": [],
+    "_hyperlinks": [
+        {
+            "ref": "self",
+            "id": "2",
+            "type": "queue",
+            "_url": "https://requesttracker.mysite.com:443/REST/2.0/queue/2"
+        },
+        {
+            "ref": "history",
+            "_url": "https://requesttracker.mysite.com:443/REST/2.0/queue/2/history"
+        },
+        {
+            "ref": "create",
+            "type": "ticket",
+            "_url": "https://requesttracker.mysite.com:443/REST/2.0/ticket?Queue=2"
+        }
+    ],
+    "SLADisabled": "1",
+    "Lifecycle": "approvals",
+    "AdminCc": [],
+    "Creator": {
+        "id": "RT_System",
+        "type": "user",
+        "_url": "https://requesttracker.mysite.com:443/REST/2.0/user/RT_System"
+    },
+    "LastUpdatedBy": {
+        "id": "RT_System",
+        "type": "user",
+        "_url": "https://requesttracker.mysite.com:443/REST/2.0/user/RT_System"
+    },
+    "Disabled": "2",
+    "SortOrder": "0",
+    "Created": "2016-12-07T22:31:28Z",
+    "id": "2",
+    "CustomFields": {},
+    "LastUpdated": "2016-12-07T22:31:28Z",
+    "Name": "___Approvals",
+    "Description": "A system-internal queue for the approvals system"
+},{
+    "Cc": [],
+    "_hyperlinks": [
+        {
+            "ref": "self",
+            "id": "2",
+            "type": "queue",
+            "_url": "https://requesttracker.mysite.com:443/REST/2.0/queue/2"
+        },
+        {
+            "ref": "history",
+            "_url": "https://requesttracker.mysite.com:443/REST/2.0/queue/2/history"
+        },
+        {
+            "ref": "create",
+            "type": "ticket",
+            "_url": "https://requesttracker.mysite.com:443/REST/2.0/ticket?Queue=2"
+        }
+    ],
+    "SLADisabled": "1",
+    "Lifecycle": "approvals",
+    "AdminCc": [],
+    "Creator": {
+        "id": "RT_System",
+        "type": "user",
+        "_url": "https://requesttracker.mysite.com:443/REST/2.0/user/RT_System"
+    },
+    "LastUpdatedBy": {
+        "id": "RT_System",
+        "type": "user",
+        "_url": "https://requesttracker.mysite.com:443/REST/2.0/user/RT_System"
+    },
+    "Disabled": "2",
+    "SortOrder": "0",
+    "Created": "2016-12-07T22:31:28Z",
+    "id": "2",
+    "CustomFields": {},
+    "LastUpdated": "2016-12-07T22:31:28Z",
+    "Name": "___Approvals",
+    "Description": "A system-internal queue for the approvals system"
+},{
+    "Cc": [],
+    "_hyperlinks": [
+        {
+            "ref": "self",
+            "id": "3",
+            "type": "queue",
+            "_url": "https://requesttracker.mysite.com:443/REST/2.0/queue/3"
+        },
+        {
+            "ref": "history",
+            "_url": "https://requesttracker.mysite.com:443/REST/2.0/queue/3/history"
+        },
+        {
+            "ref": "create",
+            "type": "ticket",
+            "_url": "https://requesttracker.mysite.com:443/REST/2.0/ticket?Queue=3"
+        }
+    ],
+    "SLADisabled": "1",
+    "Lifecycle": "incidents",
+    "AdminCc": [],
+    "Creator": {
+        "id": "root",
+        "type": "user",
+        "_url": "https://requesttracker.mysite.com:443/REST/2.0/user/root"
+    },
+    "LastUpdatedBy": {
+        "id": "Travis",
+        "type": "user",
+        "_url": "https://requesttracker.mysite.com:443/REST/2.0/user/Travis"
+    },
+    "Disabled": "1",
+    "SortOrder": "-1",
+    "Created": "2016-12-08T19:53:44Z",
+    "id": "3",
+    "CustomFields": {},
+    "LastUpdated": "2017-02-23T15:12:30Z",
+    "Name": "SOC",
+    "Description": "SOC Tickets"
+},{
+    "Cc": [],
+    "_hyperlinks": [
+        {
+            "ref": "self",
+            "id": "3",
+            "type": "queue",
+            "_url": "https://requesttracker.mysite.com:443/REST/2.0/queue/3"
+        },
+        {
+            "ref": "history",
+            "_url": "https://requesttracker.mysite.com:443/REST/2.0/queue/3/history"
+        },
+        {
+            "ref": "create",
+            "type": "ticket",
+            "_url": "https://requesttracker.mysite.com:443/REST/2.0/ticket?Queue=3"
+        }
+    ],
+    "SLADisabled": "1",
+    "Lifecycle": "incidents",
+    "AdminCc": [],
+    "Creator": {
+        "id": "root",
+        "type": "user",
+        "_url": "https://requesttracker.mysite.com:443/REST/2.0/user/root"
+    },
+    "LastUpdatedBy": {
+        "id": "Travis",
+        "type": "user",
+        "_url": "https://requesttracker.mysite.com:443/REST/2.0/user/Travis"
+    },
+    "Disabled": "1",
+    "SortOrder": "-1",
+    "Created": "2016-12-08T19:53:44Z",
+    "id": "3",
+    "CustomFields": {},
+    "LastUpdated": "2017-02-23T15:12:30Z",
+    "Name": "SOC",
+    "Description": "SOC Tickets"
+},{
+    "Cc": [],
+    "_hyperlinks": [
+        {
+            "ref": "self",
+            "id": "4",
+            "type": "queue",
+            "_url": "https://requesttracker.mysite.com:443/REST/2.0/queue/4"
+        },
+        {
+            "ref": "history",
+            "_url": "https://requesttracker.mysite.com:443/REST/2.0/queue/4/history"
+        },
+        {
+            "ref": "create",
+            "type": "ticket",
+            "_url": "https://requesttracker.mysite.com:443/REST/2.0/ticket?Queue=4"
+        }
+    ],
+    "SLADisabled": "1",
+    "Lifecycle": "default",
+    "AdminCc": [],
+    "Creator": {
+        "id": "root",
+        "type": "user",
+        "_url": "https://requesttracker.mysite.com:443/REST/2.0/user/root"
+    },
+    "LastUpdatedBy": {
+        "id": "Travis",
+        "type": "user",
+        "_url": "https://requesttracker.mysite.com:443/REST/2.0/user/Travis"
+    },
+    "Disabled": "1",
+    "SortOrder": "0",
+    "Created": "2017-01-04T14:28:40Z",
+    "id": "4",
+    "CustomFields": {},
+    "LastUpdated": "2017-01-20T21:57:42Z",
+    "Name": "TDO"
+},{
+    "Cc": [],
+    "_hyperlinks": [
+        {
+            "ref": "self",
+            "id": "4",
+            "type": "queue",
+            "_url": "https://requesttracker.mysite.com:443/REST/2.0/queue/4"
+        },
+        {
+            "ref": "history",
+            "_url": "https://requesttracker.mysite.com:443/REST/2.0/queue/4/history"
+        },
+        {
+            "ref": "create",
+            "type": "ticket",
+            "_url": "https://requesttracker.mysite.com:443/REST/2.0/ticket?Queue=4"
+        }
+    ],
+    "SLADisabled": "1",
+    "Lifecycle": "default",
+    "AdminCc": [],
+    "Creator": {
+        "id": "root",
+        "type": "user",
+        "_url": "https://requesttracker.mysite.com:443/REST/2.0/user/root"
+    },
+    "LastUpdatedBy": {
+        "id": "Travis",
+        "type": "user",
+        "_url": "https://requesttracker.mysite.com:443/REST/2.0/user/Travis"
+    },
+    "Disabled": "1",
+    "SortOrder": "0",
+    "Created": "2017-01-04T14:28:40Z",
+    "id": "4",
+    "CustomFields": {},
+    "LastUpdated": "2017-01-20T21:57:42Z",
+    "Name": "TDO"
+},{
+    "SubjectTag": "CTI",
+    "CorrespondAddress": "noreply@mysite.com",
+    "_hyperlinks": [
+        {
+            "ref": "self",
+            "id": "5",
+            "type": "queue",
+            "_url": "https://requesttracker.mysite.com:443/REST/2.0/queue/5"
+        },
+        {
+            "ref": "history",
+            "_url": "https://requesttracker.mysite.com:443/REST/2.0/queue/5/history"
+        },
+        {
+            "ref": "create",
+            "type": "ticket",
+            "_url": "https://requesttracker.mysite.com:443/REST/2.0/ticket?Queue=5"
+        }
+    ],
+    "SLADisabled": "1",
+    "AdminCc": [],
+    "Disabled": "0",
+    "id": "5",
+    "CustomFields": {},
+    "LastUpdated": "2017-06-02T17:34:54Z",
+    "Cc": [],
+    "Lifecycle": "default",
+    "Creator": {
+        "id": "root",
+        "type": "user",
+        "_url": "https://requesttracker.mysite.com:443/REST/2.0/user/root"
+    },
+    "CommentAddress": "noreply@mysite.com",
+    "LastUpdatedBy": {
+        "id": "Travis",
+        "type": "user",
+        "_url": "https://requesttracker.mysite.com:443/REST/2.0/user/Travis"
+    },
+    "SortOrder": "0",
+    "Created": "2017-01-04T14:29:18Z",
+    "Description": "Cyber Threat Intelligence",
+    "Name": "CTI"
+},{
+    "SubjectTag": "CTI",
+    "CorrespondAddress": "noreply@mysite.com",
+    "_hyperlinks": [
+        {
+            "ref": "self",
+            "id": "5",
+            "type": "queue",
+            "_url": "https://requesttracker.mysite.com:443/REST/2.0/queue/5"
+        },
+        {
+            "ref": "history",
+            "_url": "https://requesttracker.mysite.com:443/REST/2.0/queue/5/history"
+        },
+        {
+            "ref": "create",
+            "type": "ticket",
+            "_url": "https://requesttracker.mysite.com:443/REST/2.0/ticket?Queue=5"
+        }
+    ],
+    "SLADisabled": "1",
+    "AdminCc": [],
+    "Disabled": "0",
+    "id": "5",
+    "CustomFields": {},
+    "LastUpdated": "2017-06-02T17:34:54Z",
+    "Cc": [],
+    "Lifecycle": "default",
+    "Creator": {
+        "id": "root",
+        "type": "user",
+        "_url": "https://requesttracker.mysite.com:443/REST/2.0/user/root"
+    },
+    "CommentAddress": "noreply@mysite.com",
+    "LastUpdatedBy": {
+        "id": "Travis",
+        "type": "user",
+        "_url": "https://requesttracker.mysite.com:443/REST/2.0/user/Travis"
+    },
+    "SortOrder": "0",
+    "Created": "2017-01-04T14:29:18Z",
+    "Description": "Cyber Threat Intelligence",
+    "Name": "CTI"
+},{
+    "Cc": [],
+    "_hyperlinks": [
+        {
+            "ref": "self",
+            "id": "6",
+            "type": "queue",
+            "_url": "https://requesttracker.mysite.com:443/REST/2.0/queue/6"
+        },
+        {
+            "ref": "history",
+            "_url": "https://requesttracker.mysite.com:443/REST/2.0/queue/6/history"
+        },
+        {
+            "ref": "create",
+            "type": "ticket",
+            "_url": "https://requesttracker.mysite.com:443/REST/2.0/ticket?Queue=6"
+        }
+    ],
+    "SLADisabled": "1",
+    "Lifecycle": "incidents",
+    "AdminCc": [],
+    "Creator": {
+        "id": "root",
+        "type": "user",
+        "_url": "https://requesttracker.mysite.com:443/REST/2.0/user/root"
+    },
+    "LastUpdatedBy": {
+        "id": "Travis",
+        "type": "user",
+        "_url": "https://requesttracker.mysite.com:443/REST/2.0/user/Travis"
+    },
+    "Disabled": "0",
+    "SortOrder": "-3",
+    "Created": "2017-01-04T14:29:41Z",
+    "id": "6",
+    "CustomFields": {},
+    "LastUpdated": "2017-03-27T22:04:43Z",
+    "Name": "Escalated Response"
+},{
+    "Cc": [],
+    "_hyperlinks": [
+        {
+            "ref": "self",
+            "id": "6",
+            "type": "queue",
+            "_url": "https://requesttracker.mysite.com:443/REST/2.0/queue/6"
+        },
+        {
+            "ref": "history",
+            "_url": "https://requesttracker.mysite.com:443/REST/2.0/queue/6/history"
+        },
+        {
+            "ref": "create",
+            "type": "ticket",
+            "_url": "https://requesttracker.mysite.com:443/REST/2.0/ticket?Queue=6"
+        }
+    ],
+    "SLADisabled": "1",
+    "Lifecycle": "incidents",
+    "AdminCc": [],
+    "Creator": {
+        "id": "root",
+        "type": "user",
+        "_url": "https://requesttracker.mysite.com:443/REST/2.0/user/root"
+    },
+    "LastUpdatedBy": {
+        "id": "Travis",
+        "type": "user",
+        "_url": "https://requesttracker.mysite.com:443/REST/2.0/user/Travis"
+    },
+    "Disabled": "0",
+    "SortOrder": "-3",
+    "Created": "2017-01-04T14:29:41Z",
+    "id": "6",
+    "CustomFields": {},
+    "LastUpdated": "2017-03-27T22:04:43Z",
+    "Name": "Escalated Response"
+},{
+    "Cc": [],
+    "_hyperlinks": [
+        {
+            "ref": "self",
+            "id": "7",
+            "type": "queue",
+            "_url": "https://requesttracker.mysite.com:443/REST/2.0/queue/7"
+        },
+        {
+            "ref": "history",
+            "_url": "https://requesttracker.mysite.com:443/REST/2.0/queue/7/history"
+        },
+        {
+            "ref": "create",
+            "type": "ticket",
+            "_url": "https://requesttracker.mysite.com:443/REST/2.0/ticket?Queue=7"
+        }
+    ],
+    "SLADisabled": "1",
+    "Lifecycle": "default",
+    "AdminCc": [],
+    "Creator": {
+        "id": "Travis",
+        "type": "user",
+        "_url": "https://requesttracker.mysite.com:443/REST/2.0/user/Travis"
+    },
+    "LastUpdatedBy": {
+        "id": "Travis",
+        "type": "user",
+        "_url": "https://requesttracker.mysite.com:443/REST/2.0/user/Travis"
+    },
+    "Disabled": "1",
+    "SortOrder": "0",
+    "Created": "2017-01-05T21:32:24Z",
+    "id": "7",
+    "CustomFields": {},
+    "LastUpdated": "2017-03-08T19:21:59Z",
+    "Name": "Demo",
+    "Description": "Demonstration Item to show off custom field options"
+},{
+    "Cc": [],
+    "_hyperlinks": [
+        {
+            "ref": "self",
+            "id": "7",
+            "type": "queue",
+            "_url": "https://requesttracker.mysite.com:443/REST/2.0/queue/7"
+        },
+        {
+            "ref": "history",
+            "_url": "https://requesttracker.mysite.com:443/REST/2.0/queue/7/history"
+        },
+        {
+            "ref": "create",
+            "type": "ticket",
+            "_url": "https://requesttracker.mysite.com:443/REST/2.0/ticket?Queue=7"
+        }
+    ],
+    "SLADisabled": "1",
+    "Lifecycle": "default",
+    "AdminCc": [],
+    "Creator": {
+        "id": "Travis",
+        "type": "user",
+        "_url": "https://requesttracker.mysite.com:443/REST/2.0/user/Travis"
+    },
+    "LastUpdatedBy": {
+        "id": "Travis",
+        "type": "user",
+        "_url": "https://requesttracker.mysite.com:443/REST/2.0/user/Travis"
+    },
+    "Disabled": "1",
+    "SortOrder": "0",
+    "Created": "2017-01-05T21:32:24Z",
+    "id": "7",
+    "CustomFields": {},
+    "LastUpdated": "2017-03-08T19:21:59Z",
+    "Name": "Demo",
+    "Description": "Demonstration Item to show off custom field options"
+},{
+    "Cc": [],
+    "_hyperlinks": [
+        {
+            "ref": "self",
+            "id": "8",
+            "type": "queue",
+            "_url": "https://requesttracker.mysite.com:443/REST/2.0/queue/8"
+        },
+        {
+            "ref": "history",
+            "_url": "https://requesttracker.mysite.com:443/REST/2.0/queue/8/history"
+        },
+        {
+            "ref": "create",
+            "type": "ticket",
+            "_url": "https://requesttracker.mysite.com:443/REST/2.0/ticket?Queue=8"
+        }
+    ],
+    "SLADisabled": "1",
+    "Lifecycle": "incidents",
+    "AdminCc": [],
+    "Creator": {
+        "id": "Travis",
+        "type": "user",
+        "_url": "https://requesttracker.mysite.com:443/REST/2.0/user/Travis"
+    },
+    "LastUpdatedBy": {
+        "id": "Travis",
+        "type": "user",
+        "_url": "https://requesttracker.mysite.com:443/REST/2.0/user/Travis"
+    },
+    "Disabled": "0",
+    "SortOrder": "-4",
+    "Created": "2017-01-06T17:49:37Z",
+    "id": "8",
+    "CustomFields": {},
+    "LastUpdated": "2017-03-27T22:04:29Z",
+    "Name": "Incident Triage"
+},{
+    "Cc": [],
+    "_hyperlinks": [
+        {
+            "ref": "self",
+            "id": "8",
+            "type": "queue",
+            "_url": "https://requesttracker.mysite.com:443/REST/2.0/queue/8"
+        },
+        {
+            "ref": "history",
+            "_url": "https://requesttracker.mysite.com:443/REST/2.0/queue/8/history"
+        },
+        {
+            "ref": "create",
+            "type": "ticket",
+            "_url": "https://requesttracker.mysite.com:443/REST/2.0/ticket?Queue=8"
+        }
+    ],
+    "SLADisabled": "1",
+    "Lifecycle": "incidents",
+    "AdminCc": [],
+    "Creator": {
+        "id": "Travis",
+        "type": "user",
+        "_url": "https://requesttracker.mysite.com:443/REST/2.0/user/Travis"
+    },
+    "LastUpdatedBy": {
+        "id": "Travis",
+        "type": "user",
+        "_url": "https://requesttracker.mysite.com:443/REST/2.0/user/Travis"
+    },
+    "Disabled": "0",
+    "SortOrder": "-4",
+    "Created": "2017-01-06T17:49:37Z",
+    "id": "8",
+    "CustomFields": {},
+    "LastUpdated": "2017-03-27T22:04:29Z",
+    "Name": "Incident Triage"
+},{
+    "Cc": [],
+    "_hyperlinks": [
+        {
+            "ref": "self",
+            "id": "9",
+            "type": "queue",
+            "_url": "https://requesttracker.mysite.com:443/REST/2.0/queue/9"
+        },
+        {
+            "ref": "history",
+            "_url": "https://requesttracker.mysite.com:443/REST/2.0/queue/9/history"
+        },
+        {
+            "ref": "create",
+            "type": "ticket",
+            "_url": "https://requesttracker.mysite.com:443/REST/2.0/ticket?Queue=9"
+        }
+    ],
+    "SLADisabled": "1",
+    "Lifecycle": "incidents",
+    "AdminCc": [],
+    "Creator": {
+        "id": "Travis",
+        "type": "user",
+        "_url": "https://requesttracker.mysite.com:443/REST/2.0/user/Travis"
+    },
+    "LastUpdatedBy": {
+        "id": "Travis",
+        "type": "user",
+        "_url": "https://requesttracker.mysite.com:443/REST/2.0/user/Travis"
+    },
+    "Disabled": "0",
+    "SortOrder": "-5",
+    "Created": "2017-01-06T17:50:25Z",
+    "id": "9",
+    "CustomFields": {},
+    "LastUpdated": "2017-03-27T22:03:50Z",
+    "Name": "Event Correlation"
+},{
+    "Cc": [],
+    "_hyperlinks": [
+        {
+            "ref": "self",
+            "id": "9",
+            "type": "queue",
+            "_url": "https://requesttracker.mysite.com:443/REST/2.0/queue/9"
+        },
+        {
+            "ref": "history",
+            "_url": "https://requesttracker.mysite.com:443/REST/2.0/queue/9/history"
+        },
+        {
+            "ref": "create",
+            "type": "ticket",
+            "_url": "https://requesttracker.mysite.com:443/REST/2.0/ticket?Queue=9"
+        }
+    ],
+    "SLADisabled": "1",
+    "Lifecycle": "incidents",
+    "AdminCc": [],
+    "Creator": {
+        "id": "Travis",
+        "type": "user",
+        "_url": "https://requesttracker.mysite.com:443/REST/2.0/user/Travis"
+    },
+    "LastUpdatedBy": {
+        "id": "Travis",
+        "type": "user",
+        "_url": "https://requesttracker.mysite.com:443/REST/2.0/user/Travis"
+    },
+    "Disabled": "0",
+    "SortOrder": "-5",
+    "Created": "2017-01-06T17:50:25Z",
+    "id": "9",
+    "CustomFields": {},
+    "LastUpdated": "2017-03-27T22:03:50Z",
+    "Name": "Event Correlation"
+},{
+    "SubjectTag": "HUNT",
+    "CorrespondAddress": "noreply@mysite.com",
+    "_hyperlinks": [
+        {
+            "ref": "self",
+            "id": "10",
+            "type": "queue",
+            "_url": "https://requesttracker.mysite.com:443/REST/2.0/queue/10"
+        },
+        {
+            "ref": "history",
+            "_url": "https://requesttracker.mysite.com:443/REST/2.0/queue/10/history"
+        },
+        {
+            "ref": "create",
+            "type": "ticket",
+            "_url": "https://requesttracker.mysite.com:443/REST/2.0/ticket?Queue=10"
+        }
+    ],
+    "SLADisabled": "1",
+    "AdminCc": [],
+    "Disabled": "0",
+    "id": "10",
+    "CustomFields": {},
+    "LastUpdated": "2017-05-18T20:52:46Z",
+    "Cc": [],
+    "Lifecycle": "default",
+    "Creator": {
+        "id": "Travis",
+        "type": "user",
+        "_url": "https://requesttracker.mysite.com:443/REST/2.0/user/Travis"
+    },
+    "CommentAddress": "noreply@mysite.com",
+    "LastUpdatedBy": {
+        "id": "Travis",
+        "type": "user",
+        "_url": "https://requesttracker.mysite.com:443/REST/2.0/user/Travis"
+    },
+    "SortOrder": "20",
+    "Created": "2017-01-11T16:26:40Z",
+    "Name": "Hunt Missions"
+},{
+    "SubjectTag": "HUNT",
+    "CorrespondAddress": "noreply@mysite.com",
+    "_hyperlinks": [
+        {
+            "ref": "self",
+            "id": "10",
+            "type": "queue",
+            "_url": "https://requesttracker.mysite.com:443/REST/2.0/queue/10"
+        },
+        {
+            "ref": "history",
+            "_url": "https://requesttracker.mysite.com:443/REST/2.0/queue/10/history"
+        },
+        {
+            "ref": "create",
+            "type": "ticket",
+            "_url": "https://requesttracker.mysite.com:443/REST/2.0/ticket?Queue=10"
+        }
+    ],
+    "SLADisabled": "1",
+    "AdminCc": [],
+    "Disabled": "0",
+    "id": "10",
+    "CustomFields": {},
+    "LastUpdated": "2017-05-18T20:52:46Z",
+    "Cc": [],
+    "Lifecycle": "default",
+    "Creator": {
+        "id": "Travis",
+        "type": "user",
+        "_url": "https://requesttracker.mysite.com:443/REST/2.0/user/Travis"
+    },
+    "CommentAddress": "noreply@mysite.com",
+    "LastUpdatedBy": {
+        "id": "Travis",
+        "type": "user",
+        "_url": "https://requesttracker.mysite.com:443/REST/2.0/user/Travis"
+    },
+    "SortOrder": "20",
+    "Created": "2017-01-11T16:26:40Z",
+    "Name": "Hunt Missions"
+},{
+    "SubjectTag": "DETECT",
+    "CorrespondAddress": "noreply@mysite.com",
+    "_hyperlinks": [
+        {
+            "ref": "self",
+            "id": "11",
+            "type": "queue",
+            "_url": "https://requesttracker.mysite.com:443/REST/2.0/queue/11"
+        },
+        {
+            "ref": "history",
+            "_url": "https://requesttracker.mysite.com:443/REST/2.0/queue/11/history"
+        },
+        {
+            "ref": "create",
+            "type": "ticket",
+            "_url": "https://requesttracker.mysite.com:443/REST/2.0/ticket?Queue=11"
+        }
+    ],
+    "SLADisabled": "1",
+    "AdminCc": [],
+    "Disabled": "0",
+    "id": "11",
+    "CustomFields": {},
+    "LastUpdated": "2018-07-03T22:43:12Z",
+    "Cc": [],
+    "Lifecycle": "default",
+    "Creator": {
+        "id": "Travis",
+        "type": "user",
+        "_url": "https://requesttracker.mysite.com:443/REST/2.0/user/Travis"
+    },
+    "CommentAddress": "noreply@mysite.com",
+    "LastUpdatedBy": {
+        "id": "Travis",
+        "type": "user",
+        "_url": "https://requesttracker.mysite.com:443/REST/2.0/user/Travis"
+    },
+    "SortOrder": "11",
+    "Created": "2017-01-11T16:29:23Z",
+    "Description": "Work done to improve the Detection Catalog",
+    "Name": "Detection Improvement"
+},{
+    "SubjectTag": "DETECT",
+    "CorrespondAddress": "noreply@mysite.com",
+    "_hyperlinks": [
+        {
+            "ref": "self",
+            "id": "11",
+            "type": "queue",
+            "_url": "https://requesttracker.mysite.com:443/REST/2.0/queue/11"
+        },
+        {
+            "ref": "history",
+            "_url": "https://requesttracker.mysite.com:443/REST/2.0/queue/11/history"
+        },
+        {
+            "ref": "create",
+            "type": "ticket",
+            "_url": "https://requesttracker.mysite.com:443/REST/2.0/ticket?Queue=11"
+        }
+    ],
+    "SLADisabled": "1",
+    "AdminCc": [],
+    "Disabled": "0",
+    "id": "11",
+    "CustomFields": {},
+    "LastUpdated": "2018-07-03T22:43:12Z",
+    "Cc": [],
+    "Lifecycle": "default",
+    "Creator": {
+        "id": "Travis",
+        "type": "user",
+        "_url": "https://requesttracker.mysite.com:443/REST/2.0/user/Travis"
+    },
+    "CommentAddress": "noreply@mysite.com",
+    "LastUpdatedBy": {
+        "id": "Travis",
+        "type": "user",
+        "_url": "https://requesttracker.mysite.com:443/REST/2.0/user/Travis"
+    },
+    "SortOrder": "11",
+    "Created": "2017-01-11T16:29:23Z",
+    "Description": "Work done to improve the Detection Catalog",
+    "Name": "Detection Improvement"
+},{
+    "Cc": [],
+    "_hyperlinks": [
+        {
+            "ref": "self",
+            "id": "12",
+            "type": "queue",
+            "_url": "https://requesttracker.mysite.com:443/REST/2.0/queue/12"
+        },
+        {
+            "ref": "history",
+            "_url": "https://requesttracker.mysite.com:443/REST/2.0/queue/12/history"
+        },
+        {
+            "ref": "create",
+            "type": "ticket",
+            "_url": "https://requesttracker.mysite.com:443/REST/2.0/ticket?Queue=12"
+        }
+    ],
+    "SLADisabled": "1",
+    "Lifecycle": "incidents",
+    "AdminCc": [],
+    "Creator": {
+        "id": "Travis",
+        "type": "user",
+        "_url": "https://requesttracker.mysite.com:443/REST/2.0/user/Travis"
+    },
+    "LastUpdatedBy": {
+        "id": "Travis",
+        "type": "user",
+        "_url": "https://requesttracker.mysite.com:443/REST/2.0/user/Travis"
+    },
+    "Disabled": "0",
+    "SortOrder": "-2",
+    "Created": "2017-01-12T15:26:02Z",
+    "id": "12",
+    "CustomFields": {},
+    "LastUpdated": "2017-01-23T15:05:21Z",
+    "Name": "Problem Management"
+},{
+    "Cc": [],
+    "_hyperlinks": [
+        {
+            "ref": "self",
+            "id": "12",
+            "type": "queue",
+            "_url": "https://requesttracker.mysite.com:443/REST/2.0/queue/12"
+        },
+        {
+            "ref": "history",
+            "_url": "https://requesttracker.mysite.com:443/REST/2.0/queue/12/history"
+        },
+        {
+            "ref": "create",
+            "type": "ticket",
+            "_url": "https://requesttracker.mysite.com:443/REST/2.0/ticket?Queue=12"
+        }
+    ],
+    "SLADisabled": "1",
+    "Lifecycle": "incidents",
+    "AdminCc": [],
+    "Creator": {
+        "id": "Travis",
+        "type": "user",
+        "_url": "https://requesttracker.mysite.com:443/REST/2.0/user/Travis"
+    },
+    "LastUpdatedBy": {
+        "id": "Travis",
+        "type": "user",
+        "_url": "https://requesttracker.mysite.com:443/REST/2.0/user/Travis"
+    },
+    "Disabled": "0",
+    "SortOrder": "-2",
+    "Created": "2017-01-12T15:26:02Z",
+    "id": "12",
+    "CustomFields": {},
+    "LastUpdated": "2017-01-23T15:05:21Z",
+    "Name": "Problem Management"
+},{
+    "CorrespondAddress": "noreply@mysite.com",
+    "_hyperlinks": [
+        {
+            "ref": "self",
+            "id": "13",
+            "type": "queue",
+            "_url": "https://requesttracker.mysite.com:443/REST/2.0/queue/13"
+        },
+        {
+            "ref": "history",
+            "_url": "https://requesttracker.mysite.com:443/REST/2.0/queue/13/history"
+        },
+        {
+            "ref": "create",
+            "type": "ticket",
+            "_url": "https://requesttracker.mysite.com:443/REST/2.0/ticket?Queue=13"
+        }
+    ],
+    "SLADisabled": "1",
+    "AdminCc": [],
+    "Disabled": "0",
+    "id": "13",
+    "CustomFields": {},
+    "LastUpdated": "2017-06-02T17:35:59Z",
+    "Cc": [],
+    "Lifecycle": "default",
+    "Creator": {
+        "id": "Travis",
+        "type": "user",
+        "_url": "https://requesttracker.mysite.com:443/REST/2.0/user/Travis"
+    },
+    "CommentAddress": "noreply@mysite.com",
+    "LastUpdatedBy": {
+        "id": "Travis",
+        "type": "user",
+        "_url": "https://requesttracker.mysite.com:443/REST/2.0/user/Travis"
+    },
+    "SortOrder": "40",
+    "Created": "2017-01-27T20:34:11Z",
+    "Description": "Work done by team TDO that's doesn't fit elsewhere",
+    "Name": "TDO Other"
+},{
+    "CorrespondAddress": "noreply@mysite.com",
+    "_hyperlinks": [
+        {
+            "ref": "self",
+            "id": "13",
+            "type": "queue",
+            "_url": "https://requesttracker.mysite.com:443/REST/2.0/queue/13"
+        },
+        {
+            "ref": "history",
+            "_url": "https://requesttracker.mysite.com:443/REST/2.0/queue/13/history"
+        },
+        {
+            "ref": "create",
+            "type": "ticket",
+            "_url": "https://requesttracker.mysite.com:443/REST/2.0/ticket?Queue=13"
+        }
+    ],
+    "SLADisabled": "1",
+    "AdminCc": [],
+    "Disabled": "0",
+    "id": "13",
+    "CustomFields": {},
+    "LastUpdated": "2017-06-02T17:35:59Z",
+    "Cc": [],
+    "Lifecycle": "default",
+    "Creator": {
+        "id": "Travis",
+        "type": "user",
+        "_url": "https://requesttracker.mysite.com:443/REST/2.0/user/Travis"
+    },
+    "CommentAddress": "noreply@mysite.com",
+    "LastUpdatedBy": {
+        "id": "Travis",
+        "type": "user",
+        "_url": "https://requesttracker.mysite.com:443/REST/2.0/user/Travis"
+    },
+    "SortOrder": "40",
+    "Created": "2017-01-27T20:34:11Z",
+    "Description": "Work done by team TDO that's doesn't fit elsewhere",
+    "Name": "TDO Other"
+},{
+    "CorrespondAddress": "noreply@mysite.com",
+    "_hyperlinks": [
+        {
+            "ref": "self",
+            "id": "14",
+            "type": "queue",
+            "_url": "https://requesttracker.mysite.com:443/REST/2.0/queue/14"
+        },
+        {
+            "ref": "history",
+            "_url": "https://requesttracker.mysite.com:443/REST/2.0/queue/14/history"
+        },
+        {
+            "ref": "create",
+            "type": "ticket",
+            "_url": "https://requesttracker.mysite.com:443/REST/2.0/ticket?Queue=14"
+        }
+    ],
+    "SLADisabled": "1",
+    "AdminCc": [],
+    "Disabled": "1",
+    "id": "14",
+    "CustomFields": {},
+    "LastUpdated": "2018-06-21T04:27:12Z",
+    "Cc": [],
+    "Lifecycle": "default",
+    "Creator": {
+        "id": "Travis",
+        "type": "user",
+        "_url": "https://requesttracker.mysite.com:443/REST/2.0/user/Travis"
+    },
+    "CommentAddress": "noreply@mysite.com",
+    "LastUpdatedBy": {
+        "id": "Travis",
+        "type": "user",
+        "_url": "https://requesttracker.mysite.com:443/REST/2.0/user/Travis"
+    },
+    "SortOrder": "1",
+    "Created": "2017-01-27T20:45:40Z",
+    "Description": "For changes to the RT system itself",
+    "Name": "RT Changes"
+},{
+    "CorrespondAddress": "noreply@mysite.com",
+    "_hyperlinks": [
+        {
+            "ref": "self",
+            "id": "14",
+            "type": "queue",
+            "_url": "https://requesttracker.mysite.com:443/REST/2.0/queue/14"
+        },
+        {
+            "ref": "history",
+            "_url": "https://requesttracker.mysite.com:443/REST/2.0/queue/14/history"
+        },
+        {
+            "ref": "create",
+            "type": "ticket",
+            "_url": "https://requesttracker.mysite.com:443/REST/2.0/ticket?Queue=14"
+        }
+    ],
+    "SLADisabled": "1",
+    "AdminCc": [],
+    "Disabled": "1",
+    "id": "14",
+    "CustomFields": {},
+    "LastUpdated": "2018-06-21T04:27:12Z",
+    "Cc": [],
+    "Lifecycle": "default",
+    "Creator": {
+        "id": "Travis",
+        "type": "user",
+        "_url": "https://requesttracker.mysite.com:443/REST/2.0/user/Travis"
+    },
+    "CommentAddress": "noreply@mysite.com",
+    "LastUpdatedBy": {
+        "id": "Travis",
+        "type": "user",
+        "_url": "https://requesttracker.mysite.com:443/REST/2.0/user/Travis"
+    },
+    "SortOrder": "1",
+    "Created": "2017-01-27T20:45:40Z",
+    "Description": "For changes to the RT system itself",
+    "Name": "RT Changes"
+},{
+    "Cc": [],
+    "_hyperlinks": [
+        {
+            "ref": "self",
+            "id": "15",
+            "type": "queue",
+            "_url": "https://requesttracker.mysite.com:443/REST/2.0/queue/15"
+        },
+        {
+            "ref": "history",
+            "_url": "https://requesttracker.mysite.com:443/REST/2.0/queue/15/history"
+        },
+        {
+            "ref": "create",
+            "type": "ticket",
+            "_url": "https://requesttracker.mysite.com:443/REST/2.0/ticket?Queue=15"
+        }
+    ],
+    "SLADisabled": "1",
+    "Lifecycle": "default",
+    "AdminCc": [],
+    "Creator": {
+        "id": "Travis",
+        "type": "user",
+        "_url": "https://requesttracker.mysite.com:443/REST/2.0/user/Travis"
+    },
+    "LastUpdatedBy": {
+        "id": "Travis",
+        "type": "user",
+        "_url": "https://requesttracker.mysite.com:443/REST/2.0/user/Travis"
+    },
+    "Disabled": "0",
+    "SortOrder": "0",
+    "Created": "2017-02-15T04:25:49Z",
+    "id": "15",
+    "CustomFields": {},
+    "LastUpdated": "2017-02-15T04:25:49Z",
+    "Name": "IRM Other",
+    "Description": "Work done by team IRM that's doesn't fit elsewhere"
+},{
+    "Cc": [],
+    "_hyperlinks": [
+        {
+            "ref": "self",
+            "id": "15",
+            "type": "queue",
+            "_url": "https://requesttracker.mysite.com:443/REST/2.0/queue/15"
+        },
+        {
+            "ref": "history",
+            "_url": "https://requesttracker.mysite.com:443/REST/2.0/queue/15/history"
+        },
+        {
+            "ref": "create",
+            "type": "ticket",
+            "_url": "https://requesttracker.mysite.com:443/REST/2.0/ticket?Queue=15"
+        }
+    ],
+    "SLADisabled": "1",
+    "Lifecycle": "default",
+    "AdminCc": [],
+    "Creator": {
+        "id": "Travis",
+        "type": "user",
+        "_url": "https://requesttracker.mysite.com:443/REST/2.0/user/Travis"
+    },
+    "LastUpdatedBy": {
+        "id": "Travis",
+        "type": "user",
+        "_url": "https://requesttracker.mysite.com:443/REST/2.0/user/Travis"
+    },
+    "Disabled": "0",
+    "SortOrder": "0",
+    "Created": "2017-02-15T04:25:49Z",
+    "id": "15",
+    "CustomFields": {},
+    "LastUpdated": "2017-02-15T04:25:49Z",
+    "Name": "IRM Other",
+    "Description": "Work done by team IRM that's doesn't fit elsewhere"
+},{
+    "SubjectTag": "TEST",
+    "CorrespondAddress": "noreply@mysite.com",
+    "_hyperlinks": [
+        {
+            "ref": "self",
+            "id": "16",
+            "type": "queue",
+            "_url": "https://requesttracker.mysite.com:443/REST/2.0/queue/16"
+        },
+        {
+            "ref": "history",
+            "_url": "https://requesttracker.mysite.com:443/REST/2.0/queue/16/history"
+        },
+        {
+            "ref": "create",
+            "type": "ticket",
+            "_url": "https://requesttracker.mysite.com:443/REST/2.0/ticket?Queue=16"
+        }
+    ],
+    "SLADisabled": "1",
+    "AdminCc": [],
+    "Disabled": "0",
+    "id": "16",
+    "CustomFields": {},
+    "LastUpdated": "2017-04-14T20:36:20Z",
+    "Cc": [],
+    "Lifecycle": "incidents",
+    "Creator": {
+        "id": "Travis",
+        "type": "user",
+        "_url": "https://requesttracker.mysite.com:443/REST/2.0/user/Travis"
+    },
+    "CommentAddress": "noreply@mysite.com",
+    "LastUpdatedBy": {
+        "id": "Travis",
+        "type": "user",
+        "_url": "https://requesttracker.mysite.com:443/REST/2.0/user/Travis"
+    },
+    "SortOrder": "-1",
+    "Created": "2017-02-15T05:25:10Z",
+    "Description": "Detections that are not yet in production should report here",
+    "Name": "Test Detections"
+},{
+    "SubjectTag": "TEST",
+    "CorrespondAddress": "noreply@mysite.com",
+    "_hyperlinks": [
+        {
+            "ref": "self",
+            "id": "16",
+            "type": "queue",
+            "_url": "https://requesttracker.mysite.com:443/REST/2.0/queue/16"
+        },
+        {
+            "ref": "history",
+            "_url": "https://requesttracker.mysite.com:443/REST/2.0/queue/16/history"
+        },
+        {
+            "ref": "create",
+            "type": "ticket",
+            "_url": "https://requesttracker.mysite.com:443/REST/2.0/ticket?Queue=16"
+        }
+    ],
+    "SLADisabled": "1",
+    "AdminCc": [],
+    "Disabled": "0",
+    "id": "16",
+    "CustomFields": {},
+    "LastUpdated": "2017-04-14T20:36:20Z",
+    "Cc": [],
+    "Lifecycle": "incidents",
+    "Creator": {
+        "id": "Travis",
+        "type": "user",
+        "_url": "https://requesttracker.mysite.com:443/REST/2.0/user/Travis"
+    },
+    "CommentAddress": "noreply@mysite.com",
+    "LastUpdatedBy": {
+        "id": "Travis",
+        "type": "user",
+        "_url": "https://requesttracker.mysite.com:443/REST/2.0/user/Travis"
+    },
+    "SortOrder": "-1",
+    "Created": "2017-02-15T05:25:10Z",
+    "Description": "Detections that are not yet in production should report here",
+    "Name": "Test Detections"
+},{
+    "Cc": [],
+    "_hyperlinks": [
+        {
+            "ref": "self",
+            "id": "17",
+            "type": "queue",
+            "_url": "https://requesttracker.mysite.com:443/REST/2.0/queue/17"
+        },
+        {
+            "ref": "history",
+            "_url": "https://requesttracker.mysite.com:443/REST/2.0/queue/17/history"
+        },
+        {
+            "ref": "create",
+            "type": "ticket",
+            "_url": "https://requesttracker.mysite.com:443/REST/2.0/ticket?Queue=17"
+        }
+    ],
+    "SLADisabled": "1",
+    "Lifecycle": "default",
+    "AdminCc": [],
+    "Creator": {
+        "id": "Travis",
+        "type": "user",
+        "_url": "https://requesttracker.mysite.com:443/REST/2.0/user/Travis"
+    },
+    "LastUpdatedBy": {
+        "id": "Travis",
+        "type": "user",
+        "_url": "https://requesttracker.mysite.com:443/REST/2.0/user/Travis"
+    },
+    "Disabled": "1",
+    "SortOrder": "0",
+    "Created": "2017-02-15T15:50:16Z",
+    "id": "17",
+    "CustomFields": {},
+    "LastUpdated": "2017-03-08T19:25:10Z",
+    "Name": "MT - Evidence collection"
+},{
+    "Cc": [],
+    "_hyperlinks": [
+        {
+            "ref": "self",
+            "id": "17",
+            "type": "queue",
+            "_url": "https://requesttracker.mysite.com:443/REST/2.0/queue/17"
+        },
+        {
+            "ref": "history",
+            "_url": "https://requesttracker.mysite.com:443/REST/2.0/queue/17/history"
+        },
+        {
+            "ref": "create",
+            "type": "ticket",
+            "_url": "https://requesttracker.mysite.com:443/REST/2.0/ticket?Queue=17"
+        }
+    ],
+    "SLADisabled": "1",
+    "Lifecycle": "default",
+    "AdminCc": [],
+    "Creator": {
+        "id": "Travis",
+        "type": "user",
+        "_url": "https://requesttracker.mysite.com:443/REST/2.0/user/Travis"
+    },
+    "LastUpdatedBy": {
+        "id": "Travis",
+        "type": "user",
+        "_url": "https://requesttracker.mysite.com:443/REST/2.0/user/Travis"
+    },
+    "Disabled": "1",
+    "SortOrder": "0",
+    "Created": "2017-02-15T15:50:16Z",
+    "id": "17",
+    "CustomFields": {},
+    "LastUpdated": "2017-03-08T19:25:10Z",
+    "Name": "MT - Evidence collection"
+},{
+    "Cc": [],
+    "_hyperlinks": [
+        {
+            "ref": "self",
+            "id": "18",
+            "type": "queue",
+            "_url": "https://requesttracker.mysite.com:443/REST/2.0/queue/18"
+        },
+        {
+            "ref": "history",
+            "_url": "https://requesttracker.mysite.com:443/REST/2.0/queue/18/history"
+        },
+        {
+            "ref": "create",
+            "type": "ticket",
+            "_url": "https://requesttracker.mysite.com:443/REST/2.0/ticket?Queue=18"
+        }
+    ],
+    "SLADisabled": "1",
+    "Lifecycle": "default",
+    "AdminCc": [],
+    "Creator": {
+        "id": "Travis",
+        "type": "user",
+        "_url": "https://requesttracker.mysite.com:443/REST/2.0/user/Travis"
+    },
+    "LastUpdatedBy": {
+        "id": "Travis",
+        "type": "user",
+        "_url": "https://requesttracker.mysite.com:443/REST/2.0/user/Travis"
+    },
+    "Disabled": "1",
+    "SortOrder": "0",
+    "Created": "2017-02-15T15:50:27Z",
+    "id": "18",
+    "CustomFields": {},
+    "LastUpdated": "2017-03-08T19:25:21Z",
+    "Name": "MT - External drive cleanup"
+},{
+    "Cc": [],
+    "_hyperlinks": [
+        {
+            "ref": "self",
+            "id": "18",
+            "type": "queue",
+            "_url": "https://requesttracker.mysite.com:443/REST/2.0/queue/18"
+        },
+        {
+            "ref": "history",
+            "_url": "https://requesttracker.mysite.com:443/REST/2.0/queue/18/history"
+        },
+        {
+            "ref": "create",
+            "type": "ticket",
+            "_url": "https://requesttracker.mysite.com:443/REST/2.0/ticket?Queue=18"
+        }
+    ],
+    "SLADisabled": "1",
+    "Lifecycle": "default",
+    "AdminCc": [],
+    "Creator": {
+        "id": "Travis",
+        "type": "user",
+        "_url": "https://requesttracker.mysite.com:443/REST/2.0/user/Travis"
+    },
+    "LastUpdatedBy": {
+        "id": "Travis",
+        "type": "user",
+        "_url": "https://requesttracker.mysite.com:443/REST/2.0/user/Travis"
+    },
+    "Disabled": "1",
+    "SortOrder": "0",
+    "Created": "2017-02-15T15:50:27Z",
+    "id": "18",
+    "CustomFields": {},
+    "LastUpdated": "2017-03-08T19:25:21Z",
+    "Name": "MT - External drive cleanup"
+},{
+    "Cc": [],
+    "_hyperlinks": [
+        {
+            "ref": "self",
+            "id": "19",
+            "type": "queue",
+            "_url": "https://requesttracker.mysite.com:443/REST/2.0/queue/19"
+        },
+        {
+            "ref": "history",
+            "_url": "https://requesttracker.mysite.com:443/REST/2.0/queue/19/history"
+        },
+        {
+            "ref": "create",
+            "type": "ticket",
+            "_url": "https://requesttracker.mysite.com:443/REST/2.0/ticket?Queue=19"
+        }
+    ],
+    "SLADisabled": "1",
+    "Lifecycle": "default",
+    "AdminCc": [],
+    "Creator": {
+        "id": "Travis",
+        "type": "user",
+        "_url": "https://requesttracker.mysite.com:443/REST/2.0/user/Travis"
+    },
+    "LastUpdatedBy": {
+        "id": "Travis",
+        "type": "user",
+        "_url": "https://requesttracker.mysite.com:443/REST/2.0/user/Travis"
+    },
+    "Disabled": "1",
+    "SortOrder": "0",
+    "Created": "2017-02-15T15:51:48Z",
+    "id": "19",
+    "CustomFields": {},
+    "LastUpdated": "2017-03-08T19:25:40Z",
+    "Name": "MT - User compliance"
+},{
+    "Cc": [],
+    "_hyperlinks": [
+        {
+            "ref": "self",
+            "id": "19",
+            "type": "queue",
+            "_url": "https://requesttracker.mysite.com:443/REST/2.0/queue/19"
+        },
+        {
+            "ref": "history",
+            "_url": "https://requesttracker.mysite.com:443/REST/2.0/queue/19/history"
+        },
+        {
+            "ref": "create",
+            "type": "ticket",
+            "_url": "https://requesttracker.mysite.com:443/REST/2.0/ticket?Queue=19"
+        }
+    ],
+    "SLADisabled": "1",
+    "Lifecycle": "default",
+    "AdminCc": [],
+    "Creator": {
+        "id": "Travis",
+        "type": "user",
+        "_url": "https://requesttracker.mysite.com:443/REST/2.0/user/Travis"
+    },
+    "LastUpdatedBy": {
+        "id": "Travis",
+        "type": "user",
+        "_url": "https://requesttracker.mysite.com:443/REST/2.0/user/Travis"
+    },
+    "Disabled": "1",
+    "SortOrder": "0",
+    "Created": "2017-02-15T15:51:48Z",
+    "id": "19",
+    "CustomFields": {},
+    "LastUpdated": "2017-03-08T19:25:40Z",
+    "Name": "MT - User compliance"
+},{
+    "Cc": [],
+    "_hyperlinks": [
+        {
+            "ref": "self",
+            "id": "20",
+            "type": "queue",
+            "_url": "https://requesttracker.mysite.com:443/REST/2.0/queue/20"
+        },
+        {
+            "ref": "history",
+            "_url": "https://requesttracker.mysite.com:443/REST/2.0/queue/20/history"
+        },
+        {
+            "ref": "create",
+            "type": "ticket",
+            "_url": "https://requesttracker.mysite.com:443/REST/2.0/ticket?Queue=20"
+        }
+    ],
+    "SLADisabled": "1",
+    "Lifecycle": "default",
+    "AdminCc": [],
+    "Creator": {
+        "id": "Travis",
+        "type": "user",
+        "_url": "https://requesttracker.mysite.com:443/REST/2.0/user/Travis"
+    },
+    "LastUpdatedBy": {
+        "id": "Travis",
+        "type": "user",
+        "_url": "https://requesttracker.mysite.com:443/REST/2.0/user/Travis"
+    },
+    "Disabled": "1",
+    "SortOrder": "0",
+    "Created": "2017-02-15T15:52:04Z",
+    "id": "20",
+    "CustomFields": {},
+    "LastUpdated": "2017-03-08T19:25:34Z",
+    "Name": "MT - Unprotected host"
+},{
+    "Cc": [],
+    "_hyperlinks": [
+        {
+            "ref": "self",
+            "id": "20",
+            "type": "queue",
+            "_url": "https://requesttracker.mysite.com:443/REST/2.0/queue/20"
+        },
+        {
+            "ref": "history",
+            "_url": "https://requesttracker.mysite.com:443/REST/2.0/queue/20/history"
+        },
+        {
+            "ref": "create",
+            "type": "ticket",
+            "_url": "https://requesttracker.mysite.com:443/REST/2.0/ticket?Queue=20"
+        }
+    ],
+    "SLADisabled": "1",
+    "Lifecycle": "default",
+    "AdminCc": [],
+    "Creator": {
+        "id": "Travis",
+        "type": "user",
+        "_url": "https://requesttracker.mysite.com:443/REST/2.0/user/Travis"
+    },
+    "LastUpdatedBy": {
+        "id": "Travis",
+        "type": "user",
+        "_url": "https://requesttracker.mysite.com:443/REST/2.0/user/Travis"
+    },
+    "Disabled": "1",
+    "SortOrder": "0",
+    "Created": "2017-02-15T15:52:04Z",
+    "id": "20",
+    "CustomFields": {},
+    "LastUpdated": "2017-03-08T19:25:34Z",
+    "Name": "MT - Unprotected host"
+},{
+    "Cc": [],
+    "_hyperlinks": [
+        {
+            "ref": "self",
+            "id": "21",
+            "type": "queue",
+            "_url": "https://requesttracker.mysite.com:443/REST/2.0/queue/21"
+        },
+        {
+            "ref": "history",
+            "_url": "https://requesttracker.mysite.com:443/REST/2.0/queue/21/history"
+        },
+        {
+            "ref": "create",
+            "type": "ticket",
+            "_url": "https://requesttracker.mysite.com:443/REST/2.0/ticket?Queue=21"
+        }
+    ],
+    "SLADisabled": "1",
+    "Lifecycle": "default",
+    "AdminCc": [],
+    "Creator": {
+        "id": "Travis",
+        "type": "user",
+        "_url": "https://requesttracker.mysite.com:443/REST/2.0/user/Travis"
+    },
+    "LastUpdatedBy": {
+        "id": "Travis",
+        "type": "user",
+        "_url": "https://requesttracker.mysite.com:443/REST/2.0/user/Travis"
+    },
+    "Disabled": "1",
+    "SortOrder": "0",
+    "Created": "2017-02-15T15:52:19Z",
+    "id": "21",
+    "CustomFields": {},
+    "LastUpdated": "2017-03-08T19:25:28Z",
+    "Name": "MT - Unknown file"
+},{
+    "Cc": [],
+    "_hyperlinks": [
+        {
+            "ref": "self",
+            "id": "21",
+            "type": "queue",
+            "_url": "https://requesttracker.mysite.com:443/REST/2.0/queue/21"
+        },
+        {
+            "ref": "history",
+            "_url": "https://requesttracker.mysite.com:443/REST/2.0/queue/21/history"
+        },
+        {
+            "ref": "create",
+            "type": "ticket",
+            "_url": "https://requesttracker.mysite.com:443/REST/2.0/ticket?Queue=21"
+        }
+    ],
+    "SLADisabled": "1",
+    "Lifecycle": "default",
+    "AdminCc": [],
+    "Creator": {
+        "id": "Travis",
+        "type": "user",
+        "_url": "https://requesttracker.mysite.com:443/REST/2.0/user/Travis"
+    },
+    "LastUpdatedBy": {
+        "id": "Travis",
+        "type": "user",
+        "_url": "https://requesttracker.mysite.com:443/REST/2.0/user/Travis"
+    },
+    "Disabled": "1",
+    "SortOrder": "0",
+    "Created": "2017-02-15T15:52:19Z",
+    "id": "21",
+    "CustomFields": {},
+    "LastUpdated": "2017-03-08T19:25:28Z",
+    "Name": "MT - Unknown file"
+},{
+    "Cc": [],
+    "_hyperlinks": [
+        {
+            "ref": "self",
+            "id": "22",
+            "type": "queue",
+            "_url": "https://requesttracker.mysite.com:443/REST/2.0/queue/22"
+        },
+        {
+            "ref": "history",
+            "_url": "https://requesttracker.mysite.com:443/REST/2.0/queue/22/history"
+        },
+        {
+            "ref": "create",
+            "type": "ticket",
+            "_url": "https://requesttracker.mysite.com:443/REST/2.0/ticket?Queue=22"
+        }
+    ],
+    "SLADisabled": "1",
+    "Lifecycle": "incidents",
+    "AdminCc": [],
+    "Creator": {
+        "id": "Travis",
+        "type": "user",
+        "_url": "https://requesttracker.mysite.com:443/REST/2.0/user/Travis"
+    },
+    "LastUpdatedBy": {
+        "id": "Travis",
+        "type": "user",
+        "_url": "https://requesttracker.mysite.com:443/REST/2.0/user/Travis"
+    },
+    "Disabled": "0",
+    "SortOrder": "-6",
+    "Created": "2017-03-08T15:07:19Z",
+    "id": "22",
+    "CustomFields": {},
+    "LastUpdated": "2017-03-08T19:26:05Z",
+    "Name": "Offshore"
+},{
+    "Cc": [],
+    "_hyperlinks": [
+        {
+            "ref": "self",
+            "id": "22",
+            "type": "queue",
+            "_url": "https://requesttracker.mysite.com:443/REST/2.0/queue/22"
+        },
+        {
+            "ref": "history",
+            "_url": "https://requesttracker.mysite.com:443/REST/2.0/queue/22/history"
+        },
+        {
+            "ref": "create",
+            "type": "ticket",
+            "_url": "https://requesttracker.mysite.com:443/REST/2.0/ticket?Queue=22"
+        }
+    ],
+    "SLADisabled": "1",
+    "Lifecycle": "incidents",
+    "AdminCc": [],
+    "Creator": {
+        "id": "Travis",
+        "type": "user",
+        "_url": "https://requesttracker.mysite.com:443/REST/2.0/user/Travis"
+    },
+    "LastUpdatedBy": {
+        "id": "Travis",
+        "type": "user",
+        "_url": "https://requesttracker.mysite.com:443/REST/2.0/user/Travis"
+    },
+    "Disabled": "0",
+    "SortOrder": "-6",
+    "Created": "2017-03-08T15:07:19Z",
+    "id": "22",
+    "CustomFields": {},
+    "LastUpdated": "2017-03-08T19:26:05Z",
+    "Name": "Offshore"
+},{
+    "SubjectTag": "ASM",
+    "CorrespondAddress": "noreply@mysite.com",
+    "_hyperlinks": [
+        {
+            "ref": "self",
+            "id": "23",
+            "type": "queue",
+            "_url": "https://requesttracker.mysite.com:443/REST/2.0/queue/23"
+        },
+        {
+            "ref": "history",
+            "_url": "https://requesttracker.mysite.com:443/REST/2.0/queue/23/history"
+        },
+        {
+            "ref": "create",
+            "type": "ticket",
+            "_url": "https://requesttracker.mysite.com:443/REST/2.0/ticket?Queue=23"
+        }
+    ],
+    "SLADisabled": "1",
+    "AdminCc": [],
+    "Disabled": "0",
+    "id": "23",
+    "CustomFields": {},
+    "LastUpdated": "2017-05-01T16:08:10Z",
+    "Cc": [],
+    "Lifecycle": "default",
+    "Creator": {
+        "id": "Travis",
+        "type": "user",
+        "_url": "https://requesttracker.mysite.com:443/REST/2.0/user/Travis"
+    },
+    "CommentAddress": "noreply@mysite.com",
+    "LastUpdatedBy": {
+        "id": "Travis",
+        "type": "user",
+        "_url": "https://requesttracker.mysite.com:443/REST/2.0/user/Travis"
+    },
+    "SortOrder": "0",
+    "Created": "2017-05-01T16:08:09Z",
+    "Description": "Attack Surface Management",
+    "Name": "ASM"
+},{
+    "SubjectTag": "ASM",
+    "CorrespondAddress": "noreply@mysite.com",
+    "_hyperlinks": [
+        {
+            "ref": "self",
+            "id": "23",
+            "type": "queue",
+            "_url": "https://requesttracker.mysite.com:443/REST/2.0/queue/23"
+        },
+        {
+            "ref": "history",
+            "_url": "https://requesttracker.mysite.com:443/REST/2.0/queue/23/history"
+        },
+        {
+            "ref": "create",
+            "type": "ticket",
+            "_url": "https://requesttracker.mysite.com:443/REST/2.0/ticket?Queue=23"
+        }
+    ],
+    "SLADisabled": "1",
+    "AdminCc": [],
+    "Disabled": "0",
+    "id": "23",
+    "CustomFields": {},
+    "LastUpdated": "2017-05-01T16:08:10Z",
+    "Cc": [],
+    "Lifecycle": "default",
+    "Creator": {
+        "id": "Travis",
+        "type": "user",
+        "_url": "https://requesttracker.mysite.com:443/REST/2.0/user/Travis"
+    },
+    "CommentAddress": "noreply@mysite.com",
+    "LastUpdatedBy": {
+        "id": "Travis",
+        "type": "user",
+        "_url": "https://requesttracker.mysite.com:443/REST/2.0/user/Travis"
+    },
+    "SortOrder": "0",
+    "Created": "2017-05-01T16:08:09Z",
+    "Description": "Attack Surface Management",
+    "Name": "ASM"
+},{
+    "SubjectTag": "DC",
+    "CorrespondAddress": "noreply@mysite.com",
+    "_hyperlinks": [
+        {
+            "ref": "self",
+            "id": "24",
+            "type": "queue",
+            "_url": "https://requesttracker.mysite.com:443/REST/2.0/queue/24"
+        },
+        {
+            "ref": "history",
+            "_url": "https://requesttracker.mysite.com:443/REST/2.0/queue/24/history"
+        },
+        {
+            "ref": "create",
+            "type": "ticket",
+            "_url": "https://requesttracker.mysite.com:443/REST/2.0/ticket?Queue=24"
+        }
+    ],
+    "SLADisabled": "1",
+    "AdminCc": [],
+    "Disabled": "1",
+    "id": "24",
+    "CustomFields": {},
+    "LastUpdated": "2018-07-03T22:36:18Z",
+    "Cc": [],
+    "Lifecycle": "detection",
+    "Creator": {
+        "id": "Travis",
+        "type": "user",
+        "_url": "https://requesttracker.mysite.com:443/REST/2.0/user/Travis"
+    },
+    "CommentAddress": "noreply@mysite.com",
+    "LastUpdatedBy": {
+        "id": "Travis",
+        "type": "user",
+        "_url": "https://requesttracker.mysite.com:443/REST/2.0/user/Travis"
+    },
+    "SortOrder": "10",
+    "Created": "2017-05-18T20:52:17Z",
+    "Description": "The actual catalog - separated from the work done on the catalog",
+    "Name": "Detection Catalog"
+},{
+    "SubjectTag": "DC",
+    "CorrespondAddress": "noreply@mysite.com",
+    "_hyperlinks": [
+        {
+            "ref": "self",
+            "id": "24",
+            "type": "queue",
+            "_url": "https://requesttracker.mysite.com:443/REST/2.0/queue/24"
+        },
+        {
+            "ref": "history",
+            "_url": "https://requesttracker.mysite.com:443/REST/2.0/queue/24/history"
+        },
+        {
+            "ref": "create",
+            "type": "ticket",
+            "_url": "https://requesttracker.mysite.com:443/REST/2.0/ticket?Queue=24"
+        }
+    ],
+    "SLADisabled": "1",
+    "AdminCc": [],
+    "Disabled": "1",
+    "id": "24",
+    "CustomFields": {},
+    "LastUpdated": "2018-07-03T22:36:18Z",
+    "Cc": [],
+    "Lifecycle": "detection",
+    "Creator": {
+        "id": "Travis",
+        "type": "user",
+        "_url": "https://requesttracker.mysite.com:443/REST/2.0/user/Travis"
+    },
+    "CommentAddress": "noreply@mysite.com",
+    "LastUpdatedBy": {
+        "id": "Travis",
+        "type": "user",
+        "_url": "https://requesttracker.mysite.com:443/REST/2.0/user/Travis"
+    },
+    "SortOrder": "10",
+    "Created": "2017-05-18T20:52:17Z",
+    "Description": "The actual catalog - separated from the work done on the catalog",
+    "Name": "Detection Catalog"
+},{
+    "SubjectTag": "INGEST",
+    "CorrespondAddress": "noreply@mysite.com",
+    "_hyperlinks": [
+        {
+            "ref": "self",
+            "id": "25",
+            "type": "queue",
+            "_url": "https://requesttracker.mysite.com:443/REST/2.0/queue/25"
+        },
+        {
+            "ref": "history",
+            "_url": "https://requesttracker.mysite.com:443/REST/2.0/queue/25/history"
+        },
+        {
+            "ref": "create",
+            "type": "ticket",
+            "_url": "https://requesttracker.mysite.com:443/REST/2.0/ticket?Queue=25"
+        }
+    ],
+    "SLADisabled": "1",
+    "AdminCc": [],
+    "Disabled": "0",
+    "id": "25",
+    "CustomFields": {},
+    "LastUpdated": "2017-06-02T17:36:10Z",
+    "Cc": [],
+    "Lifecycle": "incidents",
+    "Creator": {
+        "id": "Travis",
+        "type": "user",
+        "_url": "https://requesttracker.mysite.com:443/REST/2.0/user/Travis"
+    },
+    "CommentAddress": "noreply@mysite.com",
+    "LastUpdatedBy": {
+        "id": "Travis",
+        "type": "user",
+        "_url": "https://requesttracker.mysite.com:443/REST/2.0/user/Travis"
+    },
+    "SortOrder": "99",
+    "Created": "2017-06-02T15:18:36Z",
+    "Description": "Automation happens here. Do not disturb.",
+    "Name": "Ingest"
+},{
+    "SubjectTag": "INGEST",
+    "CorrespondAddress": "noreply@mysite.com",
+    "_hyperlinks": [
+        {
+            "ref": "self",
+            "id": "25",
+            "type": "queue",
+            "_url": "https://requesttracker.mysite.com:443/REST/2.0/queue/25"
+        },
+        {
+            "ref": "history",
+            "_url": "https://requesttracker.mysite.com:443/REST/2.0/queue/25/history"
+        },
+        {
+            "ref": "create",
+            "type": "ticket",
+            "_url": "https://requesttracker.mysite.com:443/REST/2.0/ticket?Queue=25"
+        }
+    ],
+    "SLADisabled": "1",
+    "AdminCc": [],
+    "Disabled": "0",
+    "id": "25",
+    "CustomFields": {},
+    "LastUpdated": "2017-06-02T17:36:10Z",
+    "Cc": [],
+    "Lifecycle": "incidents",
+    "Creator": {
+        "id": "Travis",
+        "type": "user",
+        "_url": "https://requesttracker.mysite.com:443/REST/2.0/user/Travis"
+    },
+    "CommentAddress": "noreply@mysite.com",
+    "LastUpdatedBy": {
+        "id": "Travis",
+        "type": "user",
+        "_url": "https://requesttracker.mysite.com:443/REST/2.0/user/Travis"
+    },
+    "SortOrder": "99",
+    "Created": "2017-06-02T15:18:36Z",
+    "Description": "Automation happens here. Do not disturb.",
+    "Name": "Ingest"
+},{
+    "SubjectTag": "REVIEW",
+    "CorrespondAddress": "noreply@mysite.com",
+    "_hyperlinks": [
+        {
+            "ref": "self",
+            "id": "26",
+            "type": "queue",
+            "_url": "https://requesttracker.mysite.com:443/REST/2.0/queue/26"
+        },
+        {
+            "ref": "history",
+            "_url": "https://requesttracker.mysite.com:443/REST/2.0/queue/26/history"
+        },
+        {
+            "ref": "create",
+            "type": "ticket",
+            "_url": "https://requesttracker.mysite.com:443/REST/2.0/ticket?Queue=26"
+        }
+    ],
+    "SLADisabled": "1",
+    "AdminCc": [],
+    "Disabled": "0",
+    "id": "26",
+    "CustomFields": {},
+    "LastUpdated": "2017-07-28T19:05:19Z",
+    "Cc": [],
+    "Lifecycle": "incidents",
+    "Creator": {
+        "id": "Travis",
+        "type": "user",
+        "_url": "https://requesttracker.mysite.com:443/REST/2.0/user/Travis"
+    },
+    "CommentAddress": "noreply@mysite.com",
+    "LastUpdatedBy": {
+        "id": "Travis",
+        "type": "user",
+        "_url": "https://requesttracker.mysite.com:443/REST/2.0/user/Travis"
+    },
+    "SortOrder": "101",
+    "Created": "2017-07-28T18:59:27Z",
+    "Description": "A place for events we want to review after they are closed",
+    "Name": "Review"
+},{
+    "SubjectTag": "REVIEW",
+    "CorrespondAddress": "noreply@mysite.com",
+    "_hyperlinks": [
+        {
+            "ref": "self",
+            "id": "26",
+            "type": "queue",
+            "_url": "https://requesttracker.mysite.com:443/REST/2.0/queue/26"
+        },
+        {
+            "ref": "history",
+            "_url": "https://requesttracker.mysite.com:443/REST/2.0/queue/26/history"
+        },
+        {
+            "ref": "create",
+            "type": "ticket",
+            "_url": "https://requesttracker.mysite.com:443/REST/2.0/ticket?Queue=26"
+        }
+    ],
+    "SLADisabled": "1",
+    "AdminCc": [],
+    "Disabled": "0",
+    "id": "26",
+    "CustomFields": {},
+    "LastUpdated": "2017-07-28T19:05:19Z",
+    "Cc": [],
+    "Lifecycle": "incidents",
+    "Creator": {
+        "id": "Travis",
+        "type": "user",
+        "_url": "https://requesttracker.mysite.com:443/REST/2.0/user/Travis"
+    },
+    "CommentAddress": "noreply@mysite.com",
+    "LastUpdatedBy": {
+        "id": "Travis",
+        "type": "user",
+        "_url": "https://requesttracker.mysite.com:443/REST/2.0/user/Travis"
+    },
+    "SortOrder": "101",
+    "Created": "2017-07-28T18:59:27Z",
+    "Description": "A place for events we want to review after they are closed",
+    "Name": "Review"
+},{
+    "Cc": [],
+    "_hyperlinks": [
+        {
+            "ref": "self",
+            "id": "27",
+            "type": "queue",
+            "_url": "https://requesttracker.mysite.com:443/REST/2.0/queue/27"
+        },
+        {
+            "ref": "history",
+            "_url": "https://requesttracker.mysite.com:443/REST/2.0/queue/27/history"
+        },
+        {
+            "ref": "create",
+            "type": "ticket",
+            "_url": "https://requesttracker.mysite.com:443/REST/2.0/ticket?Queue=27"
+        }
+    ],
+    "SLADisabled": "1",
+    "Lifecycle": "incidents",
+    "AdminCc": [],
+    "Creator": {
+        "id": "Bob",
+        "type": "user",
+        "_url": "https://requesttracker.mysite.com:443/REST/2.0/user/Bob"
+    },
+    "LastUpdatedBy": {
+        "id": "Bob",
+        "type": "user",
+        "_url": "https://requesttracker.mysite.com:443/REST/2.0/user/Bob"
+    },
+    "Disabled": "0",
+    "SortOrder": "0",
+    "Created": "2018-01-18T09:44:59Z",
+    "id": "27",
+    "CustomFields": {},
+    "LastUpdated": "2018-01-18T09:47:27Z",
+    "Name": "IR Problem Management",
+    "Description": "IR Problem Management for EIM escalations"
+},{
+    "Cc": [],
+    "_hyperlinks": [
+        {
+            "ref": "self",
+            "id": "27",
+            "type": "queue",
+            "_url": "https://requesttracker.mysite.com:443/REST/2.0/queue/27"
+        },
+        {
+            "ref": "history",
+            "_url": "https://requesttracker.mysite.com:443/REST/2.0/queue/27/history"
+        },
+        {
+            "ref": "create",
+            "type": "ticket",
+            "_url": "https://requesttracker.mysite.com:443/REST/2.0/ticket?Queue=27"
+        }
+    ],
+    "SLADisabled": "1",
+    "Lifecycle": "incidents",
+    "AdminCc": [],
+    "Creator": {
+        "id": "Bob",
+        "type": "user",
+        "_url": "https://requesttracker.mysite.com:443/REST/2.0/user/Bob"
+    },
+    "LastUpdatedBy": {
+        "id": "Bob",
+        "type": "user",
+        "_url": "https://requesttracker.mysite.com:443/REST/2.0/user/Bob"
+    },
+    "Disabled": "0",
+    "SortOrder": "0",
+    "Created": "2018-01-18T09:44:59Z",
+    "id": "27",
+    "CustomFields": {},
+    "LastUpdated": "2018-01-18T09:47:27Z",
+    "Name": "IR Problem Management",
+    "Description": "IR Problem Management for EIM escalations"
+},{
+    "Cc": [],
+    "_hyperlinks": [
+        {
+            "ref": "self",
+            "id": "28",
+            "type": "queue",
+            "_url": "https://requesttracker.mysite.com:443/REST/2.0/queue/28"
+        },
+        {
+            "ref": "history",
+            "_url": "https://requesttracker.mysite.com:443/REST/2.0/queue/28/history"
+        },
+        {
+            "ref": "create",
+            "type": "ticket",
+            "_url": "https://requesttracker.mysite.com:443/REST/2.0/ticket?Queue=28"
+        }
+    ],
+    "SLADisabled": "1",
+    "Lifecycle": "default",
+    "AdminCc": [],
+    "Creator": {
+        "id": "Matt",
+        "type": "user",
+        "_url": "https://requesttracker.mysite.com:443/REST/2.0/user/Matt"
+    },
+    "LastUpdatedBy": {
+        "id": "Matt",
+        "type": "user",
+        "_url": "https://requesttracker.mysite.com:443/REST/2.0/user/Matt"
+    },
+    "Disabled": "0",
+    "SortOrder": "0",
+    "Created": "2018-07-05T14:23:54Z",
+    "id": "28",
+    "CustomFields": {},
+    "LastUpdated": "2018-07-05T14:26:42Z",
+    "Name": "EIM After Actions",
+    "Description": "Enterprise Incident Management"
+},{
+    "Cc": [],
+    "_hyperlinks": [
+        {
+            "ref": "self",
+            "id": "28",
+            "type": "queue",
+            "_url": "https://requesttracker.mysite.com:443/REST/2.0/queue/28"
+        },
+        {
+            "ref": "history",
+            "_url": "https://requesttracker.mysite.com:443/REST/2.0/queue/28/history"
+        },
+        {
+            "ref": "create",
+            "type": "ticket",
+            "_url": "https://requesttracker.mysite.com:443/REST/2.0/ticket?Queue=28"
+        }
+    ],
+    "SLADisabled": "1",
+    "Lifecycle": "default",
+    "AdminCc": [],
+    "Creator": {
+        "id": "Matt",
+        "type": "user",
+        "_url": "https://requesttracker.mysite.com:443/REST/2.0/user/Matt"
+    },
+    "LastUpdatedBy": {
+        "id": "Matt",
+        "type": "user",
+        "_url": "https://requesttracker.mysite.com:443/REST/2.0/user/Matt"
+    },
+    "Disabled": "0",
+    "SortOrder": "0",
+    "Created": "2018-07-05T14:23:54Z",
+    "id": "28",
+    "CustomFields": {},
+    "LastUpdated": "2018-07-05T14:26:42Z",
+    "Name": "EIM After Actions",
+    "Description": "Enterprise Incident Management"
+},{
+    "Cc": [],
+    "_hyperlinks": [
+        {
+            "ref": "self",
+            "id": "29",
+            "type": "queue",
+            "_url": "https://requesttracker.mysite.com:443/REST/2.0/queue/29"
+        },
+        {
+            "ref": "history",
+            "_url": "https://requesttracker.mysite.com:443/REST/2.0/queue/29/history"
+        },
+        {
+            "ref": "create",
+            "type": "ticket",
+            "_url": "https://requesttracker.mysite.com:443/REST/2.0/ticket?Queue=29"
+        }
+    ],
+    "SLADisabled": "1",
+    "Lifecycle": "incidents",
+    "AdminCc": [],
+    "Creator": {
+        "id": "Matt",
+        "type": "user",
+        "_url": "https://requesttracker.mysite.com:443/REST/2.0/user/Matt"
+    },
+    "LastUpdatedBy": {
+        "id": "Matt",
+        "type": "user",
+        "_url": "https://requesttracker.mysite.com:443/REST/2.0/user/Matt"
+    },
+    "Disabled": "0",
+    "SortOrder": "0",
+    "Created": "2018-07-05T14:32:22Z",
+    "id": "29",
+    "CustomFields": {},
+    "LastUpdated": "2018-07-05T14:32:23Z",
+    "Name": "EIM Incident",
+    "Description": "Enterprise Incident Management"
+},{
+    "Cc": [],
+    "_hyperlinks": [
+        {
+            "ref": "self",
+            "id": "29",
+            "type": "queue",
+            "_url": "https://requesttracker.mysite.com:443/REST/2.0/queue/29"
+        },
+        {
+            "ref": "history",
+            "_url": "https://requesttracker.mysite.com:443/REST/2.0/queue/29/history"
+        },
+        {
+            "ref": "create",
+            "type": "ticket",
+            "_url": "https://requesttracker.mysite.com:443/REST/2.0/ticket?Queue=29"
+        }
+    ],
+    "SLADisabled": "1",
+    "Lifecycle": "incidents",
+    "AdminCc": [],
+    "Creator": {
+        "id": "Matt",
+        "type": "user",
+        "_url": "https://requesttracker.mysite.com:443/REST/2.0/user/Matt"
+    },
+    "LastUpdatedBy": {
+        "id": "Matt",
+        "type": "user",
+        "_url": "https://requesttracker.mysite.com:443/REST/2.0/user/Matt"
+    },
+    "Disabled": "0",
+    "SortOrder": "0",
+    "Created": "2018-07-05T14:32:22Z",
+    "id": "29",
+    "CustomFields": {},
+    "LastUpdated": "2018-07-05T14:32:23Z",
+    "Name": "EIM Incident",
+    "Description": "Enterprise Incident Management"
+},{
+    "SubjectTag": "IR",
+    "_hyperlinks": [
+        {
+            "ref": "self",
+            "id": "48",
+            "type": "queue",
+            "_url": "https://requesttracker.mysite.com:443/REST/2.0/queue/48"
+        },
+        {
+            "ref": "history",
+            "_url": "https://requesttracker.mysite.com:443/REST/2.0/queue/48/history"
+        },
+        {
+            "ref": "create",
+            "type": "ticket",
+            "_url": "https://requesttracker.mysite.com:443/REST/2.0/ticket?Queue=48"
+        }
+    ],
+    "SLADisabled": "1",
+    "AdminCc": [],
+    "Disabled": "0",
+    "id": "48",
+    "CustomFields": {},
+    "LastUpdated": "2018-09-17T08:48:33Z",
+    "Cc": [],
+    "Lifecycle": "default",
+    "Creator": {
+        "id": "Mary",
+        "type": "user",
+        "_url": "https://requesttracker.mysite.com:443/REST/2.0/user/Mary"
+    },
+    "LastUpdatedBy": {
+        "id": "Mary",
+        "type": "user",
+        "_url": "https://requesttracker.mysite.com:443/REST/2.0/user/Mary"
+    },
+    "SortOrder": "0",
+    "Created": "2018-09-17T08:48:33Z",
+    "Description": "IR",
+    "Name": "Malware Analysis"
+},{
+    "SubjectTag": "IR",
+    "_hyperlinks": [
+        {
+            "ref": "self",
+            "id": "48",
+            "type": "queue",
+            "_url": "https://requesttracker.mysite.com:443/REST/2.0/queue/48"
+        },
+        {
+            "ref": "history",
+            "_url": "https://requesttracker.mysite.com:443/REST/2.0/queue/48/history"
+        },
+        {
+            "ref": "create",
+            "type": "ticket",
+            "_url": "https://requesttracker.mysite.com:443/REST/2.0/ticket?Queue=48"
+        }
+    ],
+    "SLADisabled": "1",
+    "AdminCc": [],
+    "Disabled": "0",
+    "id": "48",
+    "CustomFields": {},
+    "LastUpdated": "2018-09-17T08:48:33Z",
+    "Cc": [],
+    "Lifecycle": "default",
+    "Creator": {
+        "id": "Mary",
+        "type": "user",
+        "_url": "https://requesttracker.mysite.com:443/REST/2.0/user/Mary"
+    },
+    "LastUpdatedBy": {
+        "id": "Mary",
+        "type": "user",
+        "_url": "https://requesttracker.mysite.com:443/REST/2.0/user/Mary"
+    },
+    "SortOrder": "0",
+    "Created": "2018-09-17T08:48:33Z",
+    "Description": "IR",
+    "Name": "Malware Analysis"
+}]
